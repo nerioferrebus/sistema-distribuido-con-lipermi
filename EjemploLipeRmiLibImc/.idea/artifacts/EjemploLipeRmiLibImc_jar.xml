@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EjemploLipeRmiLibImc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EjemploLipeRmiLibImc_jar</output-path>
+    <root id="archive" name="EjemploLipeRmiLibImc.jar">
+      <element id="module-output" name="EjemploLipeRmiLibImc" />
+    </root>
+  </artifact>
+</component>
